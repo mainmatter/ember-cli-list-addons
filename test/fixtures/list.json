@@ -1,6 +1,6 @@
 {
   "ember-cli-list-addons": [
-    "0.0.0"
+    "$currentVersion"
   ],
   "ember-cli-inject-live-reload": [
     "2.1.0"
