@@ -71,4 +71,4 @@ See the [Contributing](CONTRIBUTING.md) guide for details.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+ember-cli-list-addons is developed by and &copy; [Mainmatter GmbH](http://mainmatter.com) and contributors. It is released under the [MIT License](LICENSE).
